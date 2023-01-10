@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/sn5yklv1varq41fs?svg=true)](https://ci.appveyor.com/project/ValentinDenisov73/aqa-1-postman-echo)
